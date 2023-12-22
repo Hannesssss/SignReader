@@ -4,11 +4,11 @@
 SignReader is an innovative computer vision project focused on detecting and reading signs, particularly speed limit signs. It leverages Python, OpenCV, and Tesseract OCR to demonstrate robust image processing and optical character recognition capabilities.
 
 ## Key Results
-![Result with Number Reader](Results/Result_with_number_reader.jpg)
-*Result with Number Reader (`Result_with_number_reader.jpg`)*
+<p float="left">
+  <img src="Results/Result_with_number_reader.jpg" width="400" />
+  <img src="Results/Result_with_sign_finder.jpg" width="400" /> 
+</p>
 
-![Result with Sign Finder](Results/Result_with_sign_finder.jpg)
-*Result with Sign Finder (`Result_with_sign_finder.jpg`)*
 
 1. **Result with Number Reader:** Demonstrates the system's ability to detect and read numbers from signs, particularly speed limits.
 2. **Result with Sign Finder:** Showcases the sign detection feature, highlighting detected signs within images.
